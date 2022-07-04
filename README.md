@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `Setup`
+
+Update `.env` file with the marvel api keys:
+
+`REACT_API_KEY` as your public key
+`REACT_PRIVATE_KEY` as your private key
+
 In the project directory, you can run:
 
 ### `npm start`
